@@ -1,5 +1,5 @@
 # special-invention
-*Practice* repo that houses codewars and 100 Devs projects 
+Web Development *practice* repo that houses codewars and 100 Devs projects 
 
 **100Devs codewars and Projects include:<br>**
 Codewars: <br>
