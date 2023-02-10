@@ -3,7 +3,7 @@
 
 **100Devs codewars and Projects include:<br>**
   :sparkles:Codewars: <br>
-   :rock: Boulder Badge<br>
-   :droplet: Cascade Badge<br>
-   :rainbow: Rainbow Badge<br>
-   :zap: Thunder Badge<br>
+    :rock: Boulder Badge<br>
+    :droplet: Cascade Badge<br>
+    :rainbow: Rainbow Badge<br>
+    :zap: Thunder Badge<br>
