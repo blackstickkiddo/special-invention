@@ -1,5 +1,5 @@
 # special-invention
-Javascript repo that houses codewars and 100 Devs projects 
+Practice repo that houses codewars and 100 Devs projects 
 
 **100Devs codewars and Projects include:<br>**
  Codewars: <br>
