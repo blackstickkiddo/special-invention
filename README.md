@@ -3,6 +3,6 @@ Javascript repo that houses codewars and 100 Devs projects
 
 **100Devs files include:<br>**
  :rock: Boulder Badge<br>
-  Cascade Badge<br>
-  Rainbow Badge<br>
-  Thunder Badge<br>
+ :droplet: Cascade Badge<br>
+ :rainbow: Rainbow Badge<br>
+ :zap: Thunder Badge<br>
